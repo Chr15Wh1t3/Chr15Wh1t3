@@ -3,7 +3,6 @@
 - 🏫 Undergraduate majoring in Network Security.
 - 💻 New to competitive programming.
 - 🎵 I like music, especially classical. Btw, I'm a clarinet player 🎼 and a crazy fan of Hatsune Miku <a href="https://emoji.gg/emoji/2565-miku"><img src="https://cdn3.emoji.gg/emojis/2565-miku.png" width="20px" height="20px" alt="miku"></a>.
-- 👟 A healthy body is the foundation of everything, exercise has helped me a lot in my daily life.
 - 🌟 It’s a pleasure to make your acquaintance.
 
 ---
