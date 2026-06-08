@@ -1,6 +1,6 @@
 ## Hey Guys, This is Chris White 😃
 
-- 🏫 Undergraduate majoring in Network Security.
+- 🍂 Network Security Graduate (Taking a gap year).
 - 💻 New to competitive programming.
 - 🌟 It’s a pleasure to make your acquaintance.
 
