@@ -1,7 +1,7 @@
 ## Hey Guys, This is Chris White 😃
 
-- 🍂 Network Security Graduate (Taking a gap year).
-- 💻 New to competitive programming.
+- 🍂 Network Security Graduate | Taking a gap year.
+- ☕ Learning Japanese, polishing personal tech, and enjoying the journey.
 - 🌟 It’s a pleasure to make your acquaintance.
 
 ---
